@@ -8,7 +8,7 @@ Download the laravel-installer script file into your Dev folder and run in the S
 
 You may have to change the permission of the file 
 ```
-chmod +x laravel-installer
+chmod +x laravel-installer.sh
 ```
 Make sure you run following commands in your developer terminal
 ```
