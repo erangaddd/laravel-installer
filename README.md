@@ -1,4 +1,4 @@
-# laravel-installerr
+# laravel-installer
 This will install a new Laravel project with basic authenticate tables and required packages.
 
 Download the laravel-installer script file into your Dev folder and run in the Shell 
